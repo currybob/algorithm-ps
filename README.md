@@ -1,5 +1,5 @@
 ## 프로그래머스 알고리즘 문제 풀이
-C / C++ 과 Javascript로 진행됩니다.
+C / C++ 과 Javascript, Python 으로 진행됩니다.
 
 
 
@@ -8,26 +8,26 @@ C / C++ 과 Javascript로 진행됩니다.
 | 문제 | 링크 | likelionWonHo | hy21116
 |:--------:|:--------:|:--------:|:--------:|
 | 완주하지 못한 선수 | https://programmers.co.kr/learn/courses/30/lessons/42576 | v |  |
-| 전화번호 목록 | https://programmers.co.kr/learn/courses/30/lessons/42577 |  | v |
+| 전화번호 목록 | https://programmers.co.kr/learn/courses/30/lessons/42577 | v | v |
 | 위장 | https://programmers.co.kr/learn/courses/30/lessons/42578 | v |  |
 | 베스트앨범 | https://programmers.co.kr/learn/courses/30/lessons/42579 |  |  |
 | 쇠막대기 | https://programmers.co.kr/learn/courses/30/lessons/42585 | v | v |
 | 프린터 | https://programmers.co.kr/learn/courses/30/lessons/42587 | v | v |
-| 다리를 지나는 트럭 | https://programmers.co.kr/learn/courses/30/lessons/42583 |  | v |
-| 기능개발 | https://programmers.co.kr/learn/courses/30/lessons/42586 |  |  |
-| 탑 | https://programmers.co.kr/learn/courses/30/lessons/42588 |  |  |
-| 주식가격 | https://programmers.co.kr/learn/courses/30/lessons/42584 |  |  |
-| 더 맵게 |https://programmers.co.kr/learn/courses/30/lessons/42626 |  |  |
-| 라면공장 | https://programmers.co.kr/learn/courses/30/lessons/42629 |  |  |
-| 디스크 컨트롤러 | https://programmers.co.kr/learn/courses/30/lessons/42627 |  |  |
-| 이중우선순위큐 | https://programmers.co.kr/learn/courses/30/lessons/42628 |  |  |
-| K번째수 | https://programmers.co.kr/learn/courses/30/lessons/42748 |  |  |
+| 다리를 지나는 트럭 | https://programmers.co.kr/learn/courses/30/lessons/42583 | v | v |
+| 기능개발 | https://programmers.co.kr/learn/courses/30/lessons/42586 | v |  |
+| 탑 | https://programmers.co.kr/learn/courses/30/lessons/42588 | v |  |
+| 주식가격 | https://programmers.co.kr/learn/courses/30/lessons/42584 | v |  |
+| 더 맵게 |https://programmers.co.kr/learn/courses/30/lessons/42626 | v |  |
+| 라면공장 | https://programmers.co.kr/learn/courses/30/lessons/42629 | v |  |
+| 디스크 컨트롤러 | https://programmers.co.kr/learn/courses/30/lessons/42627 | v |  |
+| 이중우선순위큐 | https://programmers.co.kr/learn/courses/30/lessons/42628 | v |  |
+| K번째수 | https://programmers.co.kr/learn/courses/30/lessons/42748 | v |  |
 | 가장 큰 수 | https://programmers.co.kr/learn/courses/30/lessons/42746 |  |  |
-| H-Index | https://programmers.co.kr/learn/courses/30/lessons/42747 |  |  |
-| 모의고사 | https://programmers.co.kr/learn/courses/30/lessons/42840 |  |  |
-| 소수 찾기 | https://programmers.co.kr/learn/courses/30/lessons/42839 |  |  |
+| H-Index | https://programmers.co.kr/learn/courses/30/lessons/42747 | v |  |
+| 모의고사 | https://programmers.co.kr/learn/courses/30/lessons/42840 | v |  |
+| 소수 찾기 | https://programmers.co.kr/learn/courses/30/lessons/42839 | v |  |
 | 숫자 야구 | https://programmers.co.kr/learn/courses/30/lessons/42841 |  |  |
-| 카펫 | https://programmers.co.kr/learn/courses/30/lessons/42842 |  |  |
+| 카펫 | https://programmers.co.kr/learn/courses/30/lessons/42842 | v |  |
 | 체육복 | https://programmers.co.kr/learn/courses/30/lessons/42862 |  |  
 | 조이스틱 | https://programmers.co.kr/learn/courses/30/lessons/42860 |  |  |
 | 큰 수 만들기 | https://programmers.co.kr/learn/courses/30/lessons/42883 |  |  |
